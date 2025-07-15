@@ -1,0 +1,9 @@
+print("""streamlit
+openai-whisper
+transformers
+accelerate
+sentencepiece
+TTS
+torch
+torchaudio
+numpy""")
